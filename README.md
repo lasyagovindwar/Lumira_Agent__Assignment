@@ -76,18 +76,6 @@ The goal is to showcase **prompt engineering**, **tool usage**, and **multi-step
 ---
 
 
-## 📊 Grading Rubric (100 Points)
-| Criteria | Points | Notes |
-|----------|--------|-------|
-| Prompt Engineering (Level 1) | 20 | Step-by-step outputs, refusal for math problems |
-| Correct LLM API Use | 15 | Proper calls, retry/failure handling |
-| Tool Integration (Level 2) | 20 | Calculator tool correctly integrated |
-| Multi-Step Reasoning (Level 3) | 25 | Logical chaining of tools, memory maintained |
-| Code Quality | 10 | Clean, structured, readable |
-| Submission Completeness | 10 | Includes README, logs, repo link |
-
----
-
 ## 🚀 How to Run
 
 ### 1. Clone the repository
